@@ -5,7 +5,7 @@
 
 
 # Catalogue
-A microservices-demo service that provides catalogue/product information.
+A microservices demo service that provides catalogue/product information.
 This service is built, tested and released by travis.
 
 ## Bugs, Feature Requests and Contributing
